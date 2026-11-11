@@ -68,8 +68,8 @@ This project is designed to help you:
 ## 🙌 Stay Connected
 
 - 🔔 **Subscribe on YouTube:** Programming with Amrit
-- 💼 **LinkedIn:** [rajamrit15](https://www.linkedin.com/in/xashishkushwaha/)
-- 🧑‍💻 **GitHub:** [amritmaurya1504](https://github.com/xashishkushwaha)
+- 💼 **LinkedIn:** [xAshishKushwaha](https://www.linkedin.com/in/xashishkushwaha/)
+- 🧑‍💻 **GitHub:** [xAshishKushwaha](https://github.com/xashishkushwaha)
 
 ---
 
