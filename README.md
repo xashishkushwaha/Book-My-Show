@@ -40,20 +40,6 @@ This project is designed to help you:
 - Understand system design + architecture  
 - Learn how real booking systems work  
 
-👉 Following the tutorial will ensure **smooth execution + deep understanding**
-
----
-
-## 📺 Watch the Full Playlist:
-👉 [YouTube Playlist](https://www.youtube.com/playlist?list=PL9OdiypqS7NlD84nIN-rAh9D-LtzNi10R)
-
-
-
-## 📋 Flow Chart for Project Structure:
-🔗 [View Flowchart on Eraser](https://app.eraser.io/workspace/kVaH7d9rIdoOgqli1DRR?origin=share)
-
----
-
 ## 🚀 Features Covered:
 
 - 🎭 **Theatre & Show Management**
@@ -82,8 +68,8 @@ This project is designed to help you:
 ## 🙌 Stay Connected
 
 - 🔔 **Subscribe on YouTube:** Programming with Amrit
-- 💼 **LinkedIn:** [rajamrit15](https://www.linkedin.com/in/rajamrit15/)
-- 🧑‍💻 **GitHub:** [amritmaurya1504](https://github.com/amritmaurya1504)
+- 💼 **LinkedIn:** [rajamrit15](https://www.linkedin.com/in/xashishkushwaha/)
+- 🧑‍💻 **GitHub:** [amritmaurya1504](https://github.com/xashishkushwaha)
 
 ---
 
